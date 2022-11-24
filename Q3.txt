@@ -1,0 +1,4 @@
+Answer for the Q#3 from the instructions 
+
+I would consider automation of happy paths and critical workflows
+Other than that I would add API layer of testing and DB tests to check how the data is saved in the DB
